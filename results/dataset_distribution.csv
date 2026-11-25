@@ -1,0 +1,8 @@
+implant_brand,panoramic_images,labeled_implants,orig_train,orig_val,orig_test,aug_train,aug_val,aug_test
+Straumann,106,1203,174,37,37,345,37,37
+Bilimplant,121,1144,74,16,16,364,32,16
+Implance,236,2150,166,35,35,326,36,35
+Dyna,248,340,85,18,18,335,36,18
+Megagen,253,871,177,38,38,353,38,38
+Dentium,294,878,206,44,44,411,44,44
+Total,1258,6586,882,188,188,2134,223,188

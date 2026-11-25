@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Model weights & raw clinical datasets (never commit)
+weights/
+*.safetensors
+*.pth
+*.pth.tar
+*.pt
+*.ckpt
+*.onnx
+*.h5
+*.zip
+data/
+dataset/
+saved_model/
+siniflandirilmis_veriler/
+
+# Secrets / credentials
+.env
+.passwd*
+kaggle.json
+*creds*.csv
